@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="DELETE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Breed CSV Import</description>
+        <name>Breed CSV Import_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine/>
+        <source_table>x_1107336_animal_0_ihub_import_b11aaf9d47a03110fac3c67d826d433d</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 19:23:32</sys_created_on>
+        <sys_id>15ce271547e03110fac3c67d826d430e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Breed CSV Import_rte_ihub</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1107336_animal_0">c151ef5547a03110fac3c67d826d43aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">c151ef5547a03110fac3c67d826d43aa</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_15ce271547e03110fac3c67d826d430e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:23:32</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Animal Shelter Adoption Tracker">c151ef5547a03110fac3c67d826d43aa</application>
+        <file_path/>
+        <instance_id>642d8da3db75db00439ef70fbf96194f</instance_id>
+        <instance_name>dev58423</instance_name>
+        <name>sys_robust_import_set_transformer_15ce271547e03110fac3c67d826d430e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer"><sys_robust_import_set_transformer action="INSERT_OR_UPDATE"><active>true</active><batch_size>10</batch_size><description>RTE definition for Breed CSV Import</description><name>Breed CSV Import_rte_ihub</name><properties/><robust_transform_engine/><source_table>x_1107336_animal_0_ihub_import_b11aaf9d47a03110fac3c67d826d433d</source_table><sys_class_name>sys_robust_import_set_transformer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-08 19:23:32</sys_created_on><sys_id>15ce271547e03110fac3c67d826d430e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Breed CSV Import_rte_ihub</sys_name><sys_package display_value="Animal Shelter Adoption Tracker" source="x_1107336_animal_0">c151ef5547a03110fac3c67d826d43aa</sys_package><sys_policy/><sys_scope display_value="Animal Shelter Adoption Tracker">c151ef5547a03110fac3c67d826d43aa</sys_scope><sys_update_name>sys_robust_import_set_transformer_15ce271547e03110fac3c67d826d430e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-08 19:23:32</sys_updated_on><verbose>false</verbose></sys_robust_import_set_transformer></record_update>]]></payload>
+        <payload_hash>730992453</payload_hash>
+        <record_name>Breed CSV Import_rte_ihub</record_name>
+        <reverted_from/>
+        <source>3efc178bb4a32110320f8dc279c80415</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-09 19:23:11</sys_created_on>
+        <sys_id>4e48f07547203110fac3c67d826d437b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189dbc0c7280000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-09 19:23:11</sys_updated_on>
+        <type>Robust Import Set Transformer</type>
+        <update_guid>0a48f0759620311006b8eaab1c7dac7b</update_guid>
+        <update_guid_history>0a48f0759620311006b8eaab1c7dac7b:0,95ce2715b3e031102c27116d64244e0f:935642746</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-09 19:23:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_robust_import_set_transformer">sys_robust_import_set_transformer</sys_db_object>
+        <sys_id>3d6905526a1240a0a1a6413a809c7fe4</sys_id>
+        <sys_metadata>15ce271547e03110fac3c67d826d430e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Breed CSV Import_rte_ihub</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1107336_animal_0">c151ef5547a03110fac3c67d826d43aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">c151ef5547a03110fac3c67d826d43aa</sys_scope>
+        <sys_scope_delete display_value="">69fa56f5c787428c95e3ba50e58292d9</sys_scope_delete>
+        <sys_update_name>sys_robust_import_set_transformer_15ce271547e03110fac3c67d826d430e</sys_update_name>
+        <sys_update_version display_value="sys_robust_import_set_transformer_15ce271547e03110fac3c67d826d430e">4e48f07547203110fac3c67d826d437b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-09 19:23:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

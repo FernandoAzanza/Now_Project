@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="75c7ab1d47a03110fac3c67d826d4325" label="Breed" max_length="40" name="x_1107336_animal_0_breed" type="collection">
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element choice="3" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cat" sequence="0" value="cat"/>
+                <element inactive_on_update="false" label="Dog" sequence="1" value="dog"/>
+            </choice>
+        </element>
+    </element>
+</database>
